@@ -14,6 +14,7 @@
   "items": [
     { "id": 1, "title": "First item", "active": true },
     { "id": 2, "title": "Second item", "active": false },
-    { "id": 3, "title": "Third item", "active": true }  
+    { "id": 3, "title": "Third item", "active": true },
+    { "id": 4, "title": "Fourth item", "active": false }  
   ]
 }
