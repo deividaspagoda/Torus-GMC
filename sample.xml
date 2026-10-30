@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+  <name>Torus-GMC</name>
+  <description>Test Torus GMC</description>
+  <version>0.1.0</version>
+  <createdAt>2026-10-30</createdAt>
+  <author>
+    <username>deividaspagoda</username>
+  </author>
+  <settings>
+    <enabled>true</enabled>
+    <maxItems>10</maxItems>
+    <tags>
+      <tag>sample</tag>
+      <tag>test</tag>
+      <tag>xml</tag>
+    </tags>
+  </settings>
+  <items>
+    <item id="1" active="true">
+      <title>First item</title>
+    </item>
+    <item id="2" active="false">
+      <title>Second item</title>
+    </item>
+  </items>
+</project>

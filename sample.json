@@ -1,0 +1,19 @@
+{
+  "name": "Torus-GMC",
+  "description": "Test Torus GMC",
+  "version": "0.1.0",
+  "createdAt": "2026-10-30",
+  "author": {
+    "username": "deividaspagoda"
+  },
+  "settings": {
+    "enabled": true,
+    "maxItems": 10,
+    "tags": ["sample", "test", "json"]
+  },
+  "items": [
+    { "id": 1, "title": "First item", "active": true },
+    { "id": 2, "title": "Second item", "active": false },
+    { "id": 3, "title": "Third item", "active": true }  
+  ]
+}
